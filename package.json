@@ -3,9 +3,20 @@
   "version": "0.0.1",
   "description": "Pulls random insults from insultgenerator.org.",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/octalmage/insultgenerator.git"
+  },
   "keywords": [
-    "insult"
+    "insult",
+    "random",
+    "insultgenerator.org",
+    "generator"
   ],
   "author": "Jason Stallings <octalmage@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/octalmage/insultgenerator/issues"
+  },
+  "homepage": "https://github.com/octalmage/insultgenerator#readme"
 }
