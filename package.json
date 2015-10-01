@@ -1,0 +1,11 @@
+{
+  "name": "insultgenerator",
+  "version": "0.0.1",
+  "description": "Pulls random insults from insultgenerator.org.",
+  "main": "index.js",
+  "keywords": [
+    "insult"
+  ],
+  "author": "Jason Stallings <octalmage@gmail.com>",
+  "license": "MIT"
+}
