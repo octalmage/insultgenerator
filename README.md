@@ -1,4 +1,4 @@
-# insultgenerator
+# insultgenerator [![](https://img.shields.io/npm/v/insultgenerator.svg)](https://www.npmjs.com/package/insultgenerator)
 > Node.js module that pulls random insults from [insultgenerator.org](http://insultgenerator.org).
 
 WARNING: These insults are NSFW and very offensive.
