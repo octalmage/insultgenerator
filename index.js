@@ -5,7 +5,7 @@ var http = require('http');
  * @param  {function} callback Function to call with the insult.
  * @return {string}            Insult from insultgenerator.org.
  */
-module.exports = function (callback)
+module.exports = function(callback)
 {
 	http.get(
 	{
